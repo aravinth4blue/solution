@@ -1,5 +1,3 @@
-Solve the following problem and get back to me with a working solution hosted on Github, and then we can take the conversation forward
-
 Pick 10 tags from stackoverflow.com
 
  like c#, php, java, javascript (example for c#: http://stackoverflow.com/questions/tagged/c%23
